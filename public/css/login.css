@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    background-image: url("../images/fondoDali.jpg");
+    background-size: 100% 100%;
+}
+.box {
+    width: 200px;
+    height: 40vh;
+    margin-left: calc(50vw - 100px);
+    margin-top: 10vh;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.r {
+    height: 100vh;
+    background-image: url("../images/bifu.jpg");
+    background-size: 100% 100%;
+}
